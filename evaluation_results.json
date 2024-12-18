@@ -1,0 +1,20 @@
+[
+    {
+        "model_name": "distilbert/distilgpt2",
+        "hallucinated_responses_percentage": 87.63,
+        "total_responses": 97,
+        "hallucinated_count": 85
+    },
+    {
+        "model_name": "gpt-3.5-turbo",
+        "hallucinated_responses_percentage": 8.0,
+        "total_responses": 100,
+        "hallucinated_count": 8
+    },
+    {
+        "model_name": "gpt-4o-mini",
+        "hallucinated_responses_percentage": 7.0,
+        "total_responses": 100,
+        "hallucinated_count": 7
+    }
+]

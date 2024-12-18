@@ -1,0 +1,502 @@
+[
+    {
+        "knowledge": "Jazz Inspired is a weekly radio series hosted by Judy Carmichael. The guests have ranged from jazz piano great Jon Weber, to magician Penn Jillette to Christopher Guest and Billy Joel.Penn Fraser Jillette (born March 5, 1955) is an American magician/illusionist, juggler, comedian, musician, inventor, actor, and best-selling author known for his work with fellow magician Teller as half of the team Penn & Teller.",
+        "question": "Which illusionist known for his work as half of the team Penn & Teller has been featured in the weekly radio series Jazz Inspired?",
+        "response": "Penn Jillette"
+    },
+    {
+        "knowledge": "Curly Ray Cline (January 10, 1923 \u2013 August 19, 1997) was an American bluegrass fiddler from West Virginia known for his work with the Lonesome Pine Fiddlers and Ralph Stanley. The capital and largest city is Charleston.",
+        "question": "What is the capital of the state Curly Ray Cline is from?",
+        "response": "Charleston"
+    },
+    {
+        "knowledge": " Johnnies, owned by the prominent Hayward family for the majority of its existence, became an Adelaide icon, responsible for the famous Adelaide Christmas Pageant. Since 1996 it has been known as the Credit Union Christmas Pageant.",
+        "question": "John Martin & Co. is responsible for the pageant that has been known as what since 1996?",
+        "response": "Credit Union Christmas Pageant"
+    },
+    {
+        "knowledge": "Tom\u00e1\u0161 \u0160m\u00edd (born May 20, 1956 in Plze\u0148) is a former tennis player from Czechoslovakia, who won nine singles titles during his career.Fabrice Vetea Santoro (born 9 December 1972) is a retired French professional male tennis player from Tahiti.",
+        "question": "Were Tom\u00e1\u0161 \u0160m\u00edd and Fabrice Santoro both professional tennis players?",
+        "response": "Yes."
+    },
+    {
+        "knowledge": "Louis R. Litif (December 5, 1934 \u2013 May 11, 1982), also known as Nicholas Noonan and Louis Woodward, was a Lebanese American bookmaker from South Boston, Massachusetts. After running afoul of neighborhood Irish Mob boss Whitey Bulger, Litif was murdered in 1982.The Irish Mob is the oldest organized crime group in the United States, in existence since the early 19th century.",
+        "question": "The Irish Mob existing since the early 19th century is said to have murdered which Lebanese American bookmaker from South Boston? ",
+        "response": "Louis Litif"
+    },
+    {
+        "knowledge": "The Flight to Mars amusement park ride was located in 1962 World's Fair and the Seattle Center's Fun Forest (1968-1996). The ride was a type of dark amusement ride.A dark ride or ghost train is an indoor amusement ride on which passengers aboard guided vehicles travel through specially lit scenes that typically contain animation, sound, music, and special effects.",
+        "question": "What ghost train was located in 1962 World's Fair and the Seattle Center's Fun Forest?",
+        "response": "Flight to Mars"
+    },
+    {
+        "knowledge": " The tracks just north of Sahara station were designed to provide access to a possible downtown extension of the monorail via the northern portion of the Las Vegas Strip in the area of the Circus Circus Las Vegas and the Riviera.Circus Circus Las Vegas is a hotel, 123928 sqft casino, and RV park located on the Las Vegas Strip in Winchester, Nevada.",
+        "question": "SLS station was just south of those that were designed to give access to the RV park and casino in what Nevada suburb?",
+        "response": "Winchester"
+    },
+    {
+        "knowledge": " Chas is John Constantine's closest and longest surviving friend, who acts as his sidekick and cab driver.John Constantine ( ) is a fictional antihero, appearing in comic books published by DC Comics and its alternative imprint Vertigo. 2 No. 25 (June 1984), and was created by Alan Moore, Steve Bissette and John Totleben.",
+        "question": "What fictional antihero from comic books published by DC Comics, who sometimes acts as a cab driver, was created by Alan Moore, Steve Bissette, and John Totleben?",
+        "response": "John Constantine"
+    },
+    {
+        "knowledge": "As You Like It is a 2006 film written and directed by Kenneth Branagh, and based on the Shakespearean play of the same name. It stars Bryce Dallas Howard as Rosalind, David Oyelowo as Orlando De Boys, Romola Garai as Celia, Adrian Lester as Oliver De Boys, Alfred Molina as Touchstone, Kevin Kline as Jaques, Janet McTeer as Audrey, and Brian Blessed as Duke Frederick and his brother Duke Senior.Rosalind is the heroine and protagonist of the play \"As You Like It\" (1600) by William Shakespeare.",
+        "question": "Which Shakespearean heroine was played by Bryce Dallas Howard in the 2006 film directed by Kenneth Branagh?",
+        "response": "Rosalind"
+    },
+    {
+        "knowledge": " Richards has appeared on Fox\u2019s \"The O'Reilly Factor\", \"Oprah\", \"Talk of the Nation\", \"New York One\" and CNN. CNN was founded in 1980 by American media proprietor Ted Turner as a 24-hour cable news channel.",
+        "question": "Who founded one of the news channels that Amy Richards has appeared on?",
+        "response": "Ted Turner"
+    },
+    {
+        "knowledge": "\"Yakety Sax\" is a pop jazz instrumental jointly composed by James Q. \"Spider\" Rich and Boots Randolph. Randolph was a major part of the \"Nashville sound\" for most of his professional career.",
+        "question": "\"Yakety Sax\" composer Boots Randolph was part of what musical style group during most of his professional career?",
+        "response": "Nashville sound"
+    },
+    {
+        "knowledge": "The 12\"/50 caliber \"Bethlehem\" gun was a US naval gun designed in 1910 as the main armament for the Argentine Navy\u2019s dreadnought battleships of the \"Rivadavia\" class . Named \"Rivadavia\" and \"Moreno\" after important figures in Argentine history, they were Argentina's entry in the South American dreadnought race and a counter to Brazil's two \"Minas Geraes\"-class battleship s.",
+        "question": "In what year was the US naval gun designed for the battleships to help Argentina counter Brazil's two \"Minas Geraes\"- class battleships?",
+        "response": "1910"
+    },
+    {
+        "knowledge": "BRABUS GmbH, founded 1977 in Bottrop (Ruhr Area), Germany, is a high-performance aftermarket tuning company which specializes in Mercedes-Benz, Smart, Tesla and Maybach vehicles.smart Automobile (stylized and marketed as \"smart\") is a German automotive marque and division of Daimler AG, based in B\u00f6blingen, Germany.",
+        "question": "What German automotive marque does the high-performance aftermarket tuning company Brabus specialize in?",
+        "response": "Mercedes-Benz"
+    },
+    {
+        "knowledge": "The International University of Management is a private, state-recognized university based in Windhoek, Namibia with campuses in Swakopmund, Walvis Bay,Ongwediva and Nkurenkuru.Windhoek ( ; Afrikaans: ] ; German: \"   \"; Khoekhoe: \"\u01c0Ai\u01c1gams\" ; Otjiherero: \"Otjomuise\" ) is the capital and largest city of the Republic of Namibia.",
+        "question": "International University of Management is based in the capital of what?",
+        "response": "Namibia"
+    },
+    {
+        "knowledge": " It is home to Ferry Beach State Park, Funtown Splashtown USA, Thornton Academy, as well as General Dynamics Armament Systems (also known by its former name, Saco Defense), a subsidiary of the defense contractor General Dynamics. Saco sees much tourism during summer months, due to its amusement parks, Ferry Beach State Park, and proximity to Old Orchard Beach.Funtown Splashtown USA (commonly referred to as just \"Funtown\") is a family-owned amusement park located in Saco, Maine, in the United States.",
+        "question": "Why is Funtown Splashtown USA such an important part of Saco, Maine?",
+        "response": "Tourism"
+    },
+    {
+        "knowledge": " It is the state's third-largest paper, behind the \"Las Vegas Review-Journal\" and \"Reno Gazette-Journal\". It is owned by the Gannett Company.",
+        "question": "What company owns Nevada's second-largest paper?",
+        "response": "Gannett"
+    },
+    {
+        "knowledge": "Jorge Victor Ahumada (born 1946) is a former professional boxer. Notable fights include four bouts with Victor Galindez, (one of which was a world title challenge at the Madison Square Garden in New York, New York), a title bout with Bob Foster (Foster's last title defense) which ended in a draw, and a bout with John Conteh for the WBC Light Heavyweight Championship.John Anthony Conteh, {'1': \", '2': \", '3': \", '4': \"} (born 27 May 1951) is a British former professional boxer who competed from 1971 to 1980.",
+        "question": "When was the British former professional boxer born who competed from 1971 to 1980 who had a bout with Jorge Victor Ahumada?",
+        "response": "1951"
+    },
+    {
+        "knowledge": "hitchBOT was a Canadian \"hitchhiking robot\" created by David Harris Smith of McMaster University and Frauke Zeller of Ryerson University.Ryerson University (commonly referred to as Ryerson) is a public research university in Toronto, Ontario, Canada.",
+        "question": "A robot that successfully hitchhiked across Canada was created by Ryerson University in which city?",
+        "response": "Toronto"
+    },
+    {
+        "knowledge": "Reverend Gary Davis, also Blind Gary Davis (born Gary D. Davis, April 30, 1896 \u2013 May 5, 1972), was a blues and gospel singer who was also proficient on the banjo, guitar and harmonica. His fingerpicking guitar style influenced many other artists.Thomas Griffin \"Tom\" Winslow (November 13, 1940, Hobgood, North Carolina \u2013 October 23, 2010, Albany, New York) was a prominent American folk singer and writer, best known as a \"disciple\" of Reverend Gary Davis and a former member of Pete Seeger's band.",
+        "question": "Tom Winslow was the student of what blues and gospel singer known for his fingerpicking guitar style?",
+        "response": "Reverend Gary Davis"
+    },
+    {
+        "knowledge": " The 20 poets were chosen by a panel of judges comprising Melvyn Bragg (non-voting chair), poets Michael Longley and Vicki Feaver, literary critic James Wood, Margaret Busby (publisher and author) and John Osborne (Professor of American Studies at Hull University and editor of the poetry magazine \"B\u00eate Noire\").James Douglas Graham Wood (born 1 November 1965 in Durham, England) is an English-American literary critic, essayist and novelist.",
+        "question": "When was the literary critic on the panel of judges for New Generation poets born?",
+        "response": "1965"
+    },
+    {
+        "knowledge": "Susan Joyce Vreeland (January 20, 1946 \u2013 August 23, 2017) was an American author.Gilbert \"Gil\" Scott-Heron (April 1, 1949 \u2013 May 27, 2011) was an American soul and jazz poet, musician, and author, known primarily for his work as a spoken-word performer in the 1970s and 1980s.",
+        "question": "Which author was also a soul/jazz poet and musician, Susan Vreeland or Gil Scott-Heron?",
+        "response": "Gil Scott-Heron"
+    },
+    {
+        "knowledge": "Route 97 is a south\u2013north highway in Essex County in northeastern Massachusetts. It connects the cities of Beverly and Haverhill before continuing into Salem, New Hampshire as New Hampshire Route 97.Salem is a town in Rockingham County, New Hampshire, United States.",
+        "question": "What County does Route 97 continue to after going through Essex County?",
+        "response": "Rockingham"
+    },
+    {
+        "knowledge": "Ironweed is a 1987 American drama film directed by H\u00e9ctor Babenco. Major portions of the film were shot on location in Albany, New York, including Jay Street at Lark Street, Albany Rural Cemetery and the Miss Albany Diner on North Broadway.The Albany Rural Cemetery was established October 7, 1844, in Colonie, New York, just outside the city of Albany, New York. It is renowned as one of the most beautiful, pastoral cemeteries in the United States, at over 400 acre .",
+        "question": "In which town was the 1987 American drama film Ironweed, shot on location that featured a 400 acre pastoral cemetery?",
+        "response": "Albany"
+    },
+    {
+        "knowledge": "\"Rikki-Tikki-Tavi\" is a short story in the 1894 anthology \"The Jungle Book\" by Rudyard Kipling about the adventures of a valiant young mongoose.Joseph Rudyard Kipling ( ; 30 December 1865 \u2013 18 January 1936) was an English journalist, short-story writer, poet, and novelist.",
+        "question": "\"Rikki-Tikki-Tavi\" is a short story by an author that died in what year?",
+        "response": "1936"
+    },
+    {
+        "knowledge": " After sitting out the 2014 season due to NCAA transfer rules, Mayfield won the starting quarterback job in 2015 over Cody Thomas and incumbent starter Trevor Knight.Trevor Knight (born October 3, 1993) is an American football quarterback for the Atlanta Falcons of the National Football League (NFL).",
+        "question": "In 2015, Baker Mayfield won the Oklahoma starting quarterback position over which future Atlanta Falcons quarterback?",
+        "response": "Trevor Knight"
+    },
+    {
+        "knowledge": "The WS-15 (), codename Emei, is a Chinese afterburning turbofan engine designed by the Shenyang Aeroengine Research Institute and manufactured by the Xi'an Aero-Engine Corporation, used to power China's Chengdu J-20 fighter, which would be able to achieve supercruise.The Chengdu J-20 () is a stealth, twinjet, fifth-generation fighter aircraft developed by China's Chengdu Aerospace Corporation for the People's Liberation Army Air Force (PLAAF).",
+        "question": "The WS-15, code name Emei, is a Chinese after burning turbofan engine, a stealth, twinjet, fifth-generation fighter aircraft developed by China's Chengdu Aerospace Corporation for what airforce?",
+        "response": "PLAAF"
+    },
+    {
+        "knowledge": "Sergei Lvovich Sobolev (Russian: \u0421\u0435\u0440\u0433\u0435\u0301\u0439 \u041b\u044c\u0432\u043e\u0301\u0432\u0438\u0447 \u0421\u043e\u0301\u0431\u043e\u043b\u0435\u0432 ; 6 October 1908 \u2013 3 January 1989) was a Soviet mathematician working in mathematical analysis and partial differential equations.Mikhail Leonidovich Gromov (also Mikhael Gromov, Michael Gromov or Mischa Gromov; Russian: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041b\u0435\u043e\u043d\u0438\u0301\u0434\u043e\u0432\u0438\u0447 \u0413\u0440\u043e\u0301\u043c\u043e\u0432 ; born 23 December 1943), is a French-Russian mathematician known for work in geometry, analysis and group theory. He is a permanent member of IH\u00c9S in France and a Professor of Mathematics at New York University.",
+        "question": "Are both Sergei Sobolev and Mikhail Leonidovich Gromov members of the IH\u00c9S in France?",
+        "response": "No."
+    },
+    {
+        "knowledge": "Nadine Labaki (Arabic: \u0646\u0627\u062f\u064a\u0646 \u0644\u0628\u0643\u064a\u200e \u200e ; born February 18, 1974) is a Lebanese actress and director.Neil Patrick Jordan (born 25 February 1950) is an Irish film director, screenwriter, novelist and short-story writer. He won an Academy Award (Best Original Screenplay) for \"The Crying Game\" (1992).",
+        "question": "Which director has won more academy awards, Nadine Labaki or Neil Jordan?",
+        "response": "Neil Jordan"
+    },
+    {
+        "knowledge": "The first season of the American animated television sitcom \"SpongeBob SquarePants\", created by former marine biologist and animator Stephen Hillenburg, aired from May 1, 1999 to April 8, 2000, and consists of 20 episodes.Mermaid Man and Barnacle Boy are fictional superheroes in the Nickelodeon animated television series \"SpongeBob SquarePants\".",
+        "question": "What kind of technique does SpongeBob SquarePants and Mermaid Man and Barnacle Boy have in common?",
+        "response": "Superheroics"
+    },
+    {
+        "knowledge": "Harry Beaumont (February 10, 1888 \u2013 December 22, 1966) was an American film director, actor, and screenwriter. He worked for a variety of production companies including Fox, Goldwyn, Metro, Warner Brothers, and Metro-Goldwyn-Mayer.Theodore Wharton (1875\u20131931) was an American film director, producer and writer.",
+        "question": "Where Harry Beaumont and Theodore Wharton co-stars in a movie?",
+        "response": "None."
+    },
+    {
+        "knowledge": "Alethea Howard, 13th Baroness Furnivall, Countess of Arundel (1585 \u2013 3 June [O.S. 24 May] 1654 ), n\u00e9e Lady Alethea Talbot (pronounced \"Al-ee-thia\"), was the wife of Thomas Howard, 21st Earl of Arundel. She was the youngest daughter of Gilbert Talbot, 7th Earl of Shrewsbury and his wife Mary Cavendish; and the sister of two other countesses: Mary Herbert, Countess of Pembroke and Elizabeth Grey, Countess of Kent.Thomas Howard, 21st Earl of Arundel KG, (7 July 1586 \u2013 4 October 1646) was a prominent English courtier during the reigns of King James I and King Charles I, but he made his name as a Grand Tourist and art collector rather than as a politician.",
+        "question": "Which English couriter was married to the daughter of Gilbert Talbot, 7th Earl of Shrewsbury?",
+        "response": "Thomas Howard"
+    },
+    {
+        "knowledge": "\"So Unsexy\" is a song written by Alanis Morissette, and produced by her for her fifth album, \"Under Rug Swept\" (2002).Alanis Nadine Morissette ( ; ; born June 1, 1974) is a Canadian American alternative rock singer-songwriter, musician, multi-instrumentalist, record producer, and actress.",
+        "question": "What was the 2002 album by the Canadian artist born on June 1, 1974?",
+        "response": "Under Rug Swept"
+    },
+    {
+        "knowledge": "Necropolis is a fantasy novel by British writer Anthony Horowitz.Anthony Horowitz, OBE (born 5 April 1955) is an English novelist and screenwriter specialising in mystery and suspense.",
+        "question": "Necropolis is a fantasy novel by English, novelist and screenwriter specialising in mystery and suspense writer, Anthony Horowitz, born on which date?",
+        "response": "5 April 1955"
+    },
+    {
+        "knowledge": "Alexis Emmanuel Chabrier (] ; January 18, 1841September 13, 1894) was a French Romantic composer and pianist.Leo\u0161 Jan\u00e1\u010dek (] , baptised Leo Eugen Jan\u00e1\u010dek; 3 July 1854 \u2013 12 August 1928) was a Czech composer, musical theorist, folklorist, publicist and teacher.",
+        "question": "What profession does Emmanuel Chabrier and Leo\u0161 Jan\u00e1\u010dek have in common?",
+        "response": "Composer"
+    },
+    {
+        "knowledge": " The name \u2018Lyoness\u2019 was derived from the Celtic mythological kingdom \u2018Lyonesse\u2019.The Celts ( or , see pronunciation of \"Celt\" for different usages) were an Indo-European people in Iron Age and Medieval Europe who spoke Celtic languages and had cultural similarities, although the relationship between ethnic, linguistic and cultural factors in the Celtic world remains uncertain and controversial.",
+        "question": "What time period were people who inspired the Lyoness company trademark originally from?",
+        "response": "Iron Age and Medieval Europe"
+    },
+    {
+        "knowledge": "Tulips is a 1981 American comedy-drama film starring Gabe Kaplan and Bernadette Peters.Gabriel Weston \"Gabe\" Kaplan (born March 31, 1945) is an American comedian, actor, poker commentator, and professional poker player.",
+        "question": "Tulips starred which actor who was born in 1945?",
+        "response": "Kaplan"
+    },
+    {
+        "knowledge": " CrowdRise was founded by Edward Norton, Shauna Robertson, and the founders of Moosejaw, Robert and Jeffrey Wolfe.Shauna Robertson (born circa 1975) is a Canadian film producer.",
+        "question": "What Canadian film producer co-founded CrowdRise?",
+        "response": "Shauna Robertson"
+    },
+    {
+        "knowledge": " It is one of the oldest, most highly esteemed and most exclusive members' clubs in the world and since its conception has catered to members such as Charles Kean, Henry Irving, Herbert Beerbohm Tree, Arthur Sullivan, Laurence Olivier and John Gielgud.Sir Herbert Beerbohm Tree (17 December 1852 \u2013 2 July 1917) was an English actor and theatre manager.",
+        "question": "The Garrick Club is a gentlemen's club in the heart of London founded in 1831, since its conception has catered to members such as which English actor and theatre manager, that died on 2 July 1917?",
+        "response": "Herbert Beerbohm Tree"
+    },
+    {
+        "knowledge": " He was especially associated with performances of the works of Fr\u00e9d\u00e9ric Chopin, though he also played works by Franz Schubert, Robert Schumann, and Franz Liszt.Franz Peter Schubert (] ; 31 January 179719 November 1828) was an Austrian composer.",
+        "question": "Leff Nicolas Pouishnoff played works by which Austrian composer born on January 31, 1979?",
+        "response": "Schubert"
+    },
+    {
+        "knowledge": "The Order of Maternal Glory (Russian: \"\u041e\u0440\u0434\u0435\u043d \"\u041c\u0430\u0442\u0435\u0440\u0438\u043d\u0441\u043a\u0430\u044f \u0441\u043b\u0430\u0432\u0430\"\") was a Soviet civilian award created on 8 July 1944 by Joseph Stalin and established with a decision of the Presidium of Supreme Soviet of the USSR.Joseph Vissarionovich Stalin (18 December 1878 \u2013 5 March 1953) was a Georgian-born Soviet revolutionary and political leader.",
+        "question": "Which Soviet revolutionary and political leader created the Order of Maternal Glory?",
+        "response": "Stalin"
+    },
+    {
+        "knowledge": "EuroVelo 3 (EV3), named \"the Pilgrims Route\", is a EuroVelo long-distance cycling route running 5122 km running from Trondheim in Norway to Santiago de Compostela in Spain. It has a population of 187,353 (January 1, 2016), and is the third most populous municipality in Norway, although the fourth largest urban area.",
+        "question": "Which city with population of 187,353 did  EV3 The Pilgrims Route run from ",
+        "response": "Trondheim"
+    },
+    {
+        "knowledge": "Gardish is a 1993 Hindi film directed by Priyadarshan which stars Jackie Shroff and Dimple Kapadia. Jackie Shroff was nominated for Best Actor Filmfare awards, and Dimpla Kapadia for the Best supporting Actress award.Jaikishen Kakubhai \"Jackie\" Shroff (born 1 February 1957) is an Indian actor.",
+        "question": "What is the nationality of the actor who was nominated for Best Actor Filmfare awards for his performance in Gardish?",
+        "response": "Indian"
+    },
+    {
+        "knowledge": "Lionel Barrymore (born Lionel Herbert Blythe; April 28, 1878 \u2013 November 15, 1954) was an American actor of stage, screen and radio as well as a film director.Jorge Olgu\u00edn is a Chilean director who works mainly in fantasy and horror.",
+        "question": "Do both Lionel Barrymore and Jorge Olgu\u00edn work as a film director?",
+        "response": "Yes."
+    },
+    {
+        "knowledge": "A Life for the Tsar (Russian: \u0416\u0438\u0437\u043d\u044c \u0437\u0430 \u0446\u0430\u0440\u044f , \"Zhizn' za tsarya\"), as it is known in English, although in Soviet times its name was \"Ivan Susanin\" (Russian: \u0418\u0432\u0430\u043d \u0421\u0443\u0441\u0430\u043d\u0438\u043d ) is a \"patriotic-heroic tragic opera\" in four acts with an epilogue by Mikhail Glinka.Tosca (] ) is an opera in three acts by Giacomo Puccini to an Italian libretto by Luigi Illica and Giuseppe Giacosa.",
+        "question": "A Life for the Tsar is a  Russian libretto with four acts, Tosca an Italian libretto has how many acts?",
+        "response": "Three acts."
+    },
+    {
+        "knowledge": "Diary of a Chav is a young adult series that was written by the English journalist, author, and broadcaster Grace Dent. Dent chiefly writes for \"The Independent\", with an opinion column on Wednesday and a television column every Saturday.",
+        "question": "This journalist wrote Diary of a Chav and has her own weekly opinion column in The Independent.",
+        "response": "Grace Dent"
+    },
+    {
+        "knowledge": "Waris Hussein (born 9 December 1938) is a British-Indian television director and film director best known for his many productions for British television, including \"Doctor Who\" and the \"Play of the Month\" version of \"A Passage to India\" (1965).Mathieu Kassovitz (born 3 August 1967) is a French director, screenwriter, producer, editor, and actor probably best known in Francophone countries for his role as Nino Quincampoix in \"Am\u00e9lie\" (\"Le Fabuleux Destin d'Am\u00e9lie Poulain\"; 2001).",
+        "question": "Are Waris Hussein and Mathieu Kassovitz both actors?",
+        "response": "No."
+    },
+    {
+        "knowledge": " They belong to the Saxifrage family (Saxifragaceae).Lagunaria is a monotypic genus in the family Malvaceae.",
+        "question": "Do the genuses Tiarella and Lagunaria belong to the same family?",
+        "response": "No."
+    },
+    {
+        "knowledge": "One Big Hapa Family is a 2010 animated/live-action documentary film directed by Canadian director Jeff Chiba Stearns.Saigon, U.S.A. is a 2004 documentary film about Vietnamese Americans that live in the United States.",
+        "question": "One Big Hapa Family and Saigon, U.S.A. are both what?",
+        "response": "Documentaries"
+    },
+    {
+        "knowledge": " It is located in the city of Lyon, not far from the club's home stadium, the Stade de Gerland. These include Karim Benzema, Hatem Ben Arfa, Sidney Govou, Ludovic Giuly and Lo\u00efc R\u00e9my.Lo\u00efc R\u00e9my (born 2 January 1987) is a French professional footballer who plays as a forward for Spanish side Las Palmas of La Liga.",
+        "question": "Which city is the training center that a forward for Spanish side Las Palmas of La Liga located in?",
+        "response": "Lyon"
+    },
+    {
+        "knowledge": " The council lies under the direct control and authority of the President of South Korea, Moon Jae-in.Moon Jae-in (Hangul: \ubb38\uc7ac\uc778 ; Hanja: \u6587\u5728\u5bc5 ; ] ; born 24 January 1953) is the current President of South Korea.",
+        "question": " When was president of South Korea which  The Presidential Council on Nation Branding, Korea  lies under his direct control born ",
+        "response": "1953"
+    },
+    {
+        "knowledge": " It was constructed in 1960 as the Royal Orleans, on the site of the old St. Louis Hotel, which was ruined by the 1915 New Orleans hurricane.The New Orleans Hurricane of 1915 was an intense Category 4 hurricane that made landfall near Grand Isle, Louisiana during the 1915 Atlantic hurricane season.",
+        "question": "The Omni Royal Orleans is a 345-room hotel, in the French Quarter of Louisiana, which Category 4 event occurred in 1915?",
+        "response": "New Orleans Hurricane"
+    },
+    {
+        "knowledge": " Built in 1946, the house was American architect Philip Johnson's first residential commission, and is a stylistic precursor to Johnson's better-known 1949 Glass House in New Canaan, Connecticut.The Glass House or Johnson house, is a historic house museum on Ponus Ridge Road in New Canaan, Connecticut.",
+        "question": "What year was the Johnson house built? ",
+        "response": "1946"
+    },
+    {
+        "knowledge": "The Hunt for Red October is a 1990 American espionage thriller film produced by Mace Neufeld, directed by John McTiernan, that stars Sean Connery, Alec Baldwin, Scott Glenn, James Earl Jones, and Sam Neill.James Earl Jones (born January 17, 1931) is an American actor.",
+        "question": "Which star from The Hunt for Red October was born in 1931 ?",
+        "response": "James Earl Jones"
+    },
+    {
+        "knowledge": " He first attracted attention with his controversial 1969 essays \"On the Value of Hamlet\" and \"An Essay on Shakespeare's Sonnets\", in which he reread the works in a manner considerably different from contemporary Anglo-American readings. Frank Kermode praised the former essay in the New York Review of Books in 1970 as being worth several full books of Shakespeare studies.Sir John Frank Kermode, FBA (29 November 1919 \u2013 17 August 2010) was a British literary critic best known for his work \"\", published in 1967 (revised 2000), and for his extensive book-reviewing and editing.",
+        "question": "What british literary critic lauded Stephen Booth's essay \"On the Value of Hamlet\"?",
+        "response": "Frank Kermode"
+    },
+    {
+        "knowledge": " It is operated by the 1st Battalion (Airborne), 507th Infantry, United States Army Infantry School, Fort Benning, Georgia.The United States Army Infantry School is located at Fort Benning, Georgia, is a school dedicated to training infantrymen for service in the United States Army.",
+        "question": "Where are the United States Army Infantry School and United States Army Airborne School based?",
+        "response": "Fort Benning, Georgia."
+    },
+    {
+        "knowledge": " Its also features songs from Unknown Mortal Orchestra, Eleanor Friedberger, Deer Tick, Fruit Bats, and Lavender Diamond.Unknown Mortal Orchestra is an American and New Zealand rock band composed of singer, guitarist and songwriter Ruban Nielson, bassist Jake Portrait, keyboardist Quincy McCrary, and drummer Amber Baker. The band was started by Nielson (formerly of The Mint Chicks).",
+        "question": "Space Ducks features songs from the band started by Ruben Nielson, who was formerly of what group?",
+        "response": "The Mint Chicks"
+    },
+    {
+        "knowledge": " He was the father of Piersanti Mattarella and Sergio Mattarella, who both became politicians as well; Sergio is the President of the Italian Republic since 3 February 2015 and Piersanti was President of the Regional Government of Sicily, before being assassinated in 1980 by \"Cosa Nostra\". In 2011, he became an elected judge on the Constitutional Court.",
+        "question": "Which son of Bernardo Mattarella was an elected judge on the Constitutional Court?",
+        "response": "Sergio"
+    },
+    {
+        "knowledge": " It was an overnight repositioning flight with no passengers from Little Rock, Arkansas, U.S. to Minneapolis\u2013Saint Paul International Airport, U.S. Both crew members were killed. Located in a portion of Hennepin County, Minnesota, United States, outside of any city or school district, within 10 miles (16 km) of both downtown Minneapolis and downtown Saint Paul, it is the largest and busiest airport in the six-state Upper Midwest region of Minnesota, Iowa, Nebraska, North Dakota, South Dakota, and Wisconsin.",
+        "question": "In which county is this airport located to which Pinnacle Airlines Flight 3701 was bound?",
+        "response": "Hennepin"
+    },
+    {
+        "knowledge": "Nicholas Bryan Trammell, better known by his stage name Nic Nassuet and also known professionally as Nick Ortiz-Trammell, is an American gothic-folk musician based in Hollywood, California.Raymond \"Ray\" Toro (born July 15, 1977) is an American musician who served as lead guitarist and backing vocalist of the band My Chemical Romance until their break-up in 2013.",
+        "question": "What is the occupation of both Nic Nassuet and Ray Toro?",
+        "response": "Musicians"
+    },
+    {
+        "knowledge": "The Murder at Cherry Hill occurred in 1827 near Albany, New York, when John Whipple was shot and killed at the Cherry Hill farm, home of a prominent Albany family, the Van Rensselaers.Cherry Hill is a historic house located on South Pearl Street (New York State Route 32) in Albany, New York, United States.",
+        "question": "The Murder at Cherry Hill occurred in 1827 near Albany, New York, when John Whipple was shot and killed at Cherry Hill, a historic house located on South Pearl Street (New York State Route 32) in Albany, New York, in which country?",
+        "response": "United States"
+    },
+    {
+        "knowledge": " He then performed the role of Judge Turpin in a concert version of \"Sweeney Todd\" broadcast on PBS's \"Great Performances\" in 2000 with the New York Philharmonic, George Hearn, Patti LuPone, and Neil Patrick Harris. On television, he is known for playing the title character on \"Doogie Howser, M.D.\" (1989\u20131993), Barney Stinson on \"How I Met Your Mother\" (2005\u20132014, for which he was nominated for four Emmy Awards), and Count Olaf on \"A Series of Unfortunate Events\" (2017 onward).",
+        "question": "What actor from \"How I Met Your Mother\" performed with Timothy Nolen?",
+        "response": "Neil Patrick Harris"
+    },
+    {
+        "knowledge": "John Bond (born 1962 in Rogers, Arkansas) is a college football quarterbacks coach for Northern Iowa. Bond was previously the offensive coordinator for UMass, Georgia State, Georgia Tech, Northern Illinois and Army.The Georgia State Panthers football team is the college football program for Georgia State University in Atlanta, Georgia. The Panthers football team was founded in 2010 and currently competes at the NCAA Division I FBS level.",
+        "question": "Who was regarded as an offensive coordinator of the Panthers football team?",
+        "response": "John Bond"
+    },
+    {
+        "knowledge": "Hanni Toosbuy Kasprzak (born 1957) is a Danish billionaire, the owner and chair of ECCO, the Danish shoe company which was founded by her father in 1963.ECCO Sko A/S is a Danish shoe manufacturer and retailer founded in 1963 by Karl Toosbuy, in Bredebro, Denmark.",
+        "question": "Hanni Toosbuy Kasprzak is a Danish billionaire and the owner of what Danish shoe manufacturer and retailer founded in 1963 in Bredebro, Denmark?",
+        "response": "ECCO"
+    },
+    {
+        "knowledge": " Promoting famous Opera artists like Saimir Pirgu Ermonela Jaho and staying beside the singer Vace Zela in her health problems Mrs.Dedja also is the organizer of many humanitarian activities like international charity concerts in the benefit of children with mental health problems.Ermonela Jaho is an Albanian soprano.",
+        "question": "Edlira Dedja Byty\u00e7i is an Albanian Artist of piano, art critic, municipal councilor, and the creator and leadership of the cultural foundation Opera sans frontieres -Opera without borders, promotes famous Opera artists like which Albanian soprano? ",
+        "response": "Ermonela Jaho"
+    },
+    {
+        "knowledge": "Let It Rock is a Juno Award-nominated album that documents American-Canadian singer Ronnie Hawkins' 60th birthday celebration and concert at Massey Hall in Toronto, Ontario, Canada. Jeff Healey sat in on guitar for most, if not all, of the performances.Norman Jeffrey \"Jeff\" Healey (March 25, 1966 \u2013 March 2, 2008) was a Canadian jazz and blues-rock vocalist, guitarist, and songwriter who attained musical and personal popularity, particularly in the 1980s and 1990s. He hit Number 5 on the U.S. \"Billboard\" Hot 100 chart with \"Angel Eyes\" and reached the Top 10 in Canada with the songs \"I Think I Love You Too Much\" and \"How Long Can a Man Be Strong\".",
+        "question": "Which song, by the man who played guitar for most of the performances on Let It Rock, was number 5 on the US \"Billboard\" Hot chart sometime in the 1980s or 1990s?",
+        "response": "Angel Eyes"
+    },
+    {
+        "knowledge": "Hedgehog in the Fog (Russian: \u0401\u0436\u0438\u043a \u0432 \u0442\u0443\u043c\u0430\u043d\u0435 , \"Yozhik v tumane\"; ] ) is a 1975 Soviet animated film directed by Yuriy Norshteyn, produced by the Soyuzmultfilm studio in Moscow.Yuriy Borisovich Norshteyn, PAR (Russian: \u042e\u0301\u0440\u0438\u0439 \u0411\u043e\u0440\u0438\u0301\u0441\u043e\u0432\u0438\u0447 \u041d\u043e\u0440\u0448\u0442\u0435\u0301\u0439\u043d ), or Yuri Norstein (born 15 September 1941), is a Soviet and Russian animator best known for his animated shorts, \"Hedgehog in the Fog\" and \"Tale of Tales\".",
+        "question": "Hedgehog in the Fog is directed by the animator of what nationality?",
+        "response": "Russian"
+    },
+    {
+        "knowledge": " His most notable athlete is Mebrahtom Keflezighi, the 2004 Olympic Silver medalist in the Marathon, an accomplishment that ended a 20-year drought in United States distance running medals at the Olympic level (28 years for male athletes).Mebrahtom \"Meb\" Keflezighi ( ; Ge'ez: \u1218\u1265\u122b\u1205\u1276\u121d \u12ad\u134d\u120d\u12a5\u12dd\u130a, \"Mebr\u0101ht\u014dm Kifl'izg\u012b\"; born May 5, 1975) is an Eritrean-born American long distance runner. He is the 2004 Olympic silver medalist in the marathon and finished in fourth place in the 2012 Summer Olympics.",
+        "question": "What medal did this Eritrean-born American long distance runner who was coached by Bob Larsen win during the 2004 Olympics?",
+        "response": "Silver"
+    },
+    {
+        "knowledge": " With their Week 15 win over the New York Jets, the Dolphins clinched a winning record for the first time since 2008, and clinched a playoff berth the following week after the Kansas City Chiefs defeated the Denver Broncos.The 2016 Kansas City Chiefs season was the franchise's 47th season in the National Football League, the 57th overall and the fourth under head coach Andy Reid and the fourth and final season under general manager John Dorsey who was fired June 22, 2017.",
+        "question": "The 2016 Miami Dolphins season was the franchise's 47th season in the National Football League, the 51st overall and the first under head coach Adam Gase, with their Week 15 win over the New York Jets, the Dolphins clinched a winning record for the first time since 2008, and clinched a playoff berth the following week after which franchise's 47th season in the National Football League, the 57th overall and the fourth under head coach Andy Reid and the fourth and final season under general manager John Dorsey who was fired June 22, 2017?",
+        "response": "Kansas City Chiefs"
+    },
+    {
+        "knowledge": "Fallopia is a genus of about 12\u201315 species of flowering plants in the buckwheat family, often included in a wider treatment of the related genus \"Polygonum\" in the past.Nicandra is a monotypic genus of flowering plants in the nightshade family containing the single species Nicandra physalodes.",
+        "question": "Which genus contains more species: Fallopia, or Nicandra?",
+        "response": "Fallopia"
+    },
+    {
+        "knowledge": " The song was written by group members Dave Robbins and Henry Paul, along with Lee Thomas Miller.BlackHawk is an American country music group founded in 1992 by Henry Paul (lead vocals, mandolin, acoustic guitar), Van Stephenson (background vocals, electric guitar), and Dave Robbins (background vocals, keyboards).",
+        "question": "What member of the country music group Blackhawk plays guitar and also helped write the song \"Days of America\"?  ",
+        "response": "Henry Paul"
+    },
+    {
+        "knowledge": " A branch of the family emigrated to the American colonies in the early 17th century and established the Tilden family line in America.The Thirteen Colonies were a group of British colonies on the east coast of North America founded in the 17th and 18th centuries that declared independence in 1776 and formed the United States of America.",
+        "question": "What was the name of the group of British colonies that the Tilden family originated from?",
+        "response": "Thirteen Colonies"
+    },
+    {
+        "knowledge": "Richard L. \"Rick\" Rosenthal, Jr. (born June 15, 1949) is an American film instructor and director, best known for directing \"Bad Boys\", the 1983 drama film that helped launch Sean Penn's career as well as episodes of many popular TV series (including \"\", \"Buffy the Vampire Slayer\" and \"Smallville\").Gary Nelson (born January 1934) is an American television and film director.",
+        "question": "Who is more recent, Rick Rosenthal or Gary Nelson?",
+        "response": "Rick Rosenthal"
+    },
+    {
+        "knowledge": "Paul v. Clinton was a civil suit filed in 2004 held in Los Angeles County Superior Court. The plaintiff, Peter F. Paul, alleged that President Bill Clinton and his wife, First Lady Hillary Clinton, deceived him into paying for the Gala Hollywood Farewell Salute to President Clinton, during Hillary Clinton's first Senate race in 2000, by making a promise that the President would work for Paul's company, Stan Lee Media, after his presidential term was over.Peter Franklin Paul (born September 2, 1948) is a former lawyer and entrepreneur who was convicted for conspiracy and drug dealing, and later for securities fraud in connection with his business dealings with \"Spider-Man\" co-creator Stan Lee.",
+        "question": "The plaintiff in the civil suit Paul v. Clinton was born in which year ?",
+        "response": "1948"
+    },
+    {
+        "knowledge": " Stanford running back Toby Gerhart was voted Pac-10 Offensive Player of the Year. He was selected by the Minnesota Vikings in the second round of the 2010 NFL Draft.",
+        "question": "What team selected the 2009 Pac-10 Offensive Player of the Year in the second round of the 2010 NFL Draft?",
+        "response": "Vikings"
+    },
+    {
+        "knowledge": " In addition to the coup\u00e9 and cabriolet versions, Targa versions of the Carrera 4 and Carrera 4S were also available, which carry on with the \"glass canopy\" roof design used on all Targa 911s from the Type 993 Generation 911 until the 991, which replaced it in 2012.993 is the company's internal name for the version of the Porsche 911 model manufactured and sold between late 1993 and early 1998 (model years 1995-1998 in the United States), replacing the 964.",
+        "question": "997 is the internal designation for the Porsche 911 model manufactured and sold by German manufacturer Porsche between 2004 (as Model Year 2005) and 2012, Targa versions of the Carrera 4 and Carrera 4S were also available, which carry on with the \"glass canopy\" roof design used on all Targa 911s from the Type 993 Generation 911 until the 991, which replaced it in 2012, 993 is the company's internal name for the version of the Porsche 911 model manufactured and sold between late 1993, and early of what year?",
+        "response": "1998"
+    },
+    {
+        "knowledge": "Ahmad Khormali (Persian: \u0627\u062d\u0645\u062f \u062e\u0631\u0645\u0627\u0644\u06cc\u200e \u200e ) is an Iranian football goalkeeper. He wears pyjama-like tracksuit bottoms while playing after Hungarian goalkeeper G\u00e1bor Kir\u00e1ly.G\u00e1bor Ferenc Kir\u00e1ly (] ; born 1 April 1976) is a Hungarian professional footballer who plays for Szombathelyi Halad\u00e1s as a goalkeeper.",
+        "question": "Which team the player belongs to after which  Ahmad Khormali wears pyjama-like tracksuit bottoms while playing? ",
+        "response": "G\u00e1bor Kir\u00e1ly"
+    },
+    {
+        "knowledge": "Baltimore's Marching Ravens are the official marching band of the Baltimore Ravens American football team. The team plays its home games at M&T Bank Stadium and is headquartered in Owings Mills.",
+        "question": "At which stadium does the team, for which Baltimore's Marching Ravens is the official marching band, play its home games?",
+        "response": "M&T Bank Stadium"
+    },
+    {
+        "knowledge": " Cultivars were developed in China in ancient times from \"R. chinensis\" crosses, and these have been important in the ancestry of the tea-scented China roses, also called tea roses, and their descendants the hybrid tea roses. More generally, \"cultivar\" refers to the most basic classification category of cultivated plants governed by the ICNCP.",
+        "question": "Where were the most basic classification categories of cultivated plants governed by the ICNCP developed?",
+        "response": "Internationally"
+    },
+    {
+        "knowledge": " It is situated 2 mi west from the A1 road, 1.5 mi east from the Viking Way and the Leicestershire border, and 8 mi south from Grantham.The A1 is the longest numbered road in the UK, at 410 mi .",
+        "question": "Stainby is a hamlet in the South Kesteven district of Lincolnshire, and is situated 2 mi west from the A1 road, the A1 is the longest numbered road in which country?",
+        "response": "UK"
+    },
+    {
+        "knowledge": " Along with earlier 19th-century composers such as William Sandys and John Mason Neale, Bramley and Stainer are credited with fuelling a Victorian revival of Christmas carols with their 1871 publication of Christmas Carols, New and Old, which popularised carols such as \"The First Nowell\", \"God Rest You Merry, Gentlemen\" and \"The Holly and the Ivy\". The song is catalogued as Roud Folk Song Index No. 514.",
+        "question": "In what year did Henry Ramsden Bramley publish the song catalogued as Roud Fold Song Index No. 514?",
+        "response": "1871"
+    },
+    {
+        "knowledge": "Sway is a 2014 young adult fiction book by American author Kat Spears and her debut novel. The work was first published on 16 September 2014 through St. Martin's Griffin and is a modern take on the story of Cyrano de Bergerac.Cyrano de Bergerac is a play written in 1897 by Edmond Rostand.",
+        "question": "What adult fiction book by Kat Spears in based on a play 1897 by Edmond Rostand?",
+        "response": "Sway"
+    },
+    {
+        "knowledge": " For the second year in a row Jens Voigt held off Levi Leipheimer to take the victory.Levi Leipheimer (born October 24, 1973) is an American former professional road racing cyclist.",
+        "question": "What American road racing cyclist lost to  Jens Voigt for the second year in a row?",
+        "response": "Levi Leipheimer"
+    },
+    {
+        "knowledge": " The song was also featured as a background song in the popular video game \"Watch Dogs\" by Ubisoft in 2014 which later led to the song being increasingly popular. Set within a fictionalized version of Chicago, Illinois, the single-player story follows a hacker and his efforts to seek revenge after the killing of his niece.",
+        "question": "The video game which features MGK's \"Invincible\" takes place in a fictionalized version of which city?",
+        "response": "Chicago"
+    },
+    {
+        "knowledge": "The 2011\u201312 Portland Trail Blazers season was the 42nd season of the franchise in the National Basketball Association (NBA). The Trail Blazers finished the season in 11th place in the Western Conference with a 28\u201338 record.Nathaniel McMillan (born August 3, 1964) is an American basketball coach and former player who is currently the head coach for the Indiana Pacers of the National Basketball Association (NBA). He coached the Seattle SuperSonics from 2000 to 2005, and the Portland Trail Blazers from 2005 to 2012.",
+        "question": "The former head coach of the team that finished 11th place in the NBA's Western Conference in the 2011-12 season is now the head coach for which NBA team?",
+        "response": "Pacers"
+    },
+    {
+        "knowledge": "The G7 Research Group (formerly the G8 Research Group) is an independent source of information, analysis and research on the institutions, issues and members of the Group of Seven (formerly the Group of Eight) and the G7 Summit.The G8 (reformatted as G7 from 2014 due to Russia's suspension) was an inter-governmental political forum from 1997 until 2014, with participation from the world\u2032s major highly industrialized economies in countries that viewed themselves as democracies.",
+        "question": "What research group was formed in 2014 due to Russia's suspension?",
+        "response": "G7 Research Group"
+    },
+    {
+        "knowledge": "Timothy Gerard Grunhard (born May 17, 1968) is a former American football center in the National Football League (NFL).The Kansas Jayhawks, commonly referred to as KU or Kansas, are the athletic teams that represent the University of Kansas.",
+        "question": "Timothy Gerard Grunhard was  was the offensive line coach for the Kansas Jayhawks representing what university?",
+        "response": "University of Kansas"
+    },
+    {
+        "knowledge": " The match was held at the Galaxy's home field of the StubHub Center in Carson, California, as the Galaxy were awarded home advantage by finishing the regular season with more points than the Revolution. It is approximately 14 mi south of Downtown Los Angeles and its primary tenant is the LA Galaxy of Major League Soccer.",
+        "question": "What sports complex was the 2014 MLS Cup match in California?",
+        "response": "StubHub Center"
+    },
+    {
+        "knowledge": "Maxime Teremoana \"Max\" Crocombe (born 12 August 1993) is a footballer who plays as a goalkeeper for Salford City and the New Zealand national team.Salford City Football Club is a professional football club in the Kersal area of Salford, Greater Manchester, England, which plays in National League North, the sixth tier of English football.",
+        "question": "Where in England does Maxime Teremoana \"Max\" Crocombe play football? ",
+        "response": "Salford"
+    },
+    {
+        "knowledge": "The Paumanok Path is a 125 mi hiking trail in New York on Long Island that goes from Rocky Point to Montauk Point State Park.Rocky Point is a hamlet and census-designated place (CDP) in Suffolk County, New York on the North Shore of Long Island.",
+        "question": "The Paumanok Path goes from Montauk Point State Park to a hamlet and census-designated place in what county?",
+        "response": "Suffolk"
+    },
+    {
+        "knowledge": "CirKis is a piece placing board game, for two to four players, invented by Phil E. Orbanes and developed by Winning Moves Games USA in 2009.Top Secret Spies (German name: Heimlich and Co.) is a spy-themed German-style board game designed by Wolfgang Kramer and published in 1984 by Ravensburger.",
+        "question": "Which game CirKis or Top Secret Spies was produced first ?",
+        "response": "Top Secret Spies"
+    },
+    {
+        "knowledge": "John Flammang Schrank (March 5, 1876 \u2013 September 15, 1943) was a resident of New York, best known for his attempt to assassinate former U.S. President Theodore Roosevelt on October 14, 1912, in Milwaukee, Wisconsin.Theodore Roosevelt Jr. ( ; October 27, 1858 \u2013 January 6, 1919) was an American statesman, author, explorer, soldier, naturalist, and reformer who served as the 26th President of the United States from 1901 to 1909. As a leader of the Republican Party during this time, he became a driving force for the Progressive Era in the United States in the early 20th century.",
+        "question": "In which state did John Flammang Schrank from New York attempt to assassinate Republican president Theodore Roosevelt in October 1912?",
+        "response": "Wisconsin"
+    },
+    {
+        "knowledge": "The 2015\u201316 DFB-Pokal was the 73rd season of the annual German football cup competition. It began on 7 August 2015 with the first of six rounds and ended on 21 May 2016 with the final at the Olympiastadion in Berlin, a nominally neutral venue, which has hosted the final since 1985.Olympiastadion (] ) is a sports stadium in Berlin, Germany.",
+        "question": "The final for the 2015\u201316 DFB-Pokal was played in which sports stadium in Berlin, Germany?",
+        "response": "Olympiastadion"
+    },
+    {
+        "knowledge": " The most successful of these films include \"Bloodsport\" (1988), \"Kickboxer\" (1989), \"Lionheart\" (1990), \"Double Impact\" (1991), \"Universal Soldier\" (1992), \"Hard Target\" (1993), \"Street Fighter\" (1994), \"Timecop\" (1994), \"Sudden Death\" (1995), \"JCVD\" (2008) and \"The Expendables 2\" (2012).Sudden Death is a 1995 American action film directed by Peter Hyams, and starring Jean-Claude Van Damme, Powers Boothe, and Dorian Harewood.",
+        "question": "What film directed by Peter Hyams was one of Jean-Claude Van Damme's most successful?",
+        "response": "Sudden Death"
+    },
+    {
+        "knowledge": "A King in New York is a 1957 British comedy film directed by and starring Charlie Chaplin in his last leading role, which co-stars, among others, his young son Michael.Sir Charles Spencer \"Charlie\" Chaplin, {'1': \", '2': \", '3': 'KBE', '4': \"} (16 April 1889 \u2013 25 December 1977) was an English comic actor, filmmaker, and composer who rose to fame in the era of silent film.",
+        "question": " A King in New York is a 1957 British comedy film directed by and starring an English comic who rose to fame in what era?",
+        "response": "Silent film"
+    },
+    {
+        "knowledge": " Nixon received an Emmy Award and a Screen Actors Guild Award for her performance. She is known for her portrayal of Miranda Hobbes in the HBO series, \"Sex and the City\" (1998\u20132004), for which she won the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series.",
+        "question": "In what show did Cynthia Nixon receive the 2004 Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and a Screen Actors Guild Award for her performance?",
+        "response": "Sex and the City"
+    },
+    {
+        "knowledge": "The Underdog Show was a six-week television series presented by Julian Clary and his dog, Valerie.Julian Peter McDonald Clary (born 25 May 1959) is an English comedian and novelist.",
+        "question": "How long was the Underdog show presented by an English comedian Julian Clary?",
+        "response": "Six weeks."
+    },
+    {
+        "knowledge": "Commando Leopard (German: Kommando Leopard ) is a 1985 West German-Italian war film directed by Antonio Margheriti and starring Lewis Collins.Lewis Collins (27 May 1946 \u2013 27 November 2013) was an English film and theatre actor. His career defining role was playing the character of \"Bodie\" in the late 1970s - early 1980s British television series \"The Professionals\".",
+        "question": "Who was the director of the 1985 West German-Italian war film starring the actor who played the character of \"Bodie\" in the late 1970s - early 1980s British television series \"The Professionals\"?",
+        "response": "Antonio Margheriti"
+    },
+    {
+        "knowledge": "Green on Red was an American rock band, formed in the Tucson, Arizona punk scene, but based for most of its career in Los Angeles, California, where it was loosely associated with the Paisley Underground.Hollywood Undead is an American rap rock band from Los Angeles, California, formed in 2005.",
+        "question": " Green on Red and Hollywood Undead are both what?",
+        "response": "Bands"
+    },
+    {
+        "knowledge": "Texas are a Scottish pop rock band from Glasgow.Eagle-Eye Lanoo Cherry (born 7 May 1969) is a Swedish musician best known for his hit single \"Save Tonight\".",
+        "question": "Do the band Texas and the singer Eagle-Eye Cherry both originate in Sweden?",
+        "response": "No."
+    },
+    {
+        "knowledge": "\"Feels Like Home\" is a song written by Randy Newman. Linda Ronstadt recorded the song and released it on her album \"Feels Like Home\" in March 1995. She has earned 11 Grammy Awards, three American Music Awards, two Academy of Country Music awards, an Emmy Award, and an ALMA Award, and many of her albums have been certified gold, platinum or multiplatinum in the United States and internationally.",
+        "question": "Randy Newman wrote the country song \"Feels Like Home\" for which multiple award-winning singer?",
+        "response": "Linda Ronstadt"
+    }
+]
